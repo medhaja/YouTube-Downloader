@@ -1,3 +1,8 @@
+#	Coded by Medhaja H L on 06-07-2018
+#	this script is coded to run on Python 3.6.1 |Anaconda 4.4.0 (64-bit) if you have python is 2.7 or Lower,this script doesnt work unless
+#	some minor changes
+#	Tested on Windows 10 64-bit machine
+
 import subprocess
 import os
 import sys
